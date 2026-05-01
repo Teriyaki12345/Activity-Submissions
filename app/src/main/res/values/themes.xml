@@ -1,6 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <style name="Base.Theme.Exercise2_musicplayer" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:windowBackground">#000000</item>
+    <style name="Base.Theme.Exercise3MusicPlayer" parent="Theme.Material3.DayNight.NoActionBar">        <item name="android:windowBackground">#000000</item>
         <item name="colorPrimaryVariant">#000000</item>
         <item name="colorOnPrimary">#FFFFFF</item>
         <item name="colorPrimary">@color/red_accent</item>

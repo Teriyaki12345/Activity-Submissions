@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">exercise-3_music-player</string>
+    <string name="app_name">Stopify</string>
     <string name="my_song_text">My Song</string>
     <string name="select_a_song_text">Select a Song</string>
     <string name="prev_text">Prev</string>
